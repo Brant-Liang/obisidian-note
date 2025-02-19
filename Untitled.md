@@ -1,0 +1,1 @@
+/Users/liangcong/Documents/Obsidian Vault
