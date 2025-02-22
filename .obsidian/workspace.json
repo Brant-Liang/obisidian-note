@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git/git 用法.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git 用法"
+              "title": "README"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "git/git 用法.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for git 用法"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "git/git 用法.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from git 用法"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "git/git 用法.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of git 用法"
+              "title": "Outline of README"
             }
           }
         ]
@@ -183,14 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c191d13c3b8d623",
+  "active": "008ca7fdc28ed107",
   "lastOpenFiles": [
+    "Solidity/SimpleStorage.sol",
     "Untitled.md",
+    "Bitcoin/协议.md",
     "git/git 用法.md",
     "git",
     "README.md",
     "Solidity",
-    "Bitcoin/协议.md",
     "Bitcoin"
   ]
 }
