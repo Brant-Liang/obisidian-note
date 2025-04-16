@@ -27,30 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bitcoin/1、区块链基础.md",
+                "file": "Solidity/Hardhat/local node.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1、区块链基础"
-            }
-          },
-          {
-            "id": "b3c0ca0278ee89aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "go/切片.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "切片"
+              "title": "local node"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,11 +183,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3c0ca0278ee89aa",
+  "active": "debdac539fd69561",
   "lastOpenFiles": [
-    "go/go 语言.md",
+    "Pasted image 20250227004444.png",
+    "Solidity/Hardhat/local node.md",
+    "Solidity/Grammer/Solidty 基础语法.md",
+    "Solidity/Hardhat/local_node.md",
+    "Solidity/Hardhat",
     "go/切片.md",
+    "go/go 语言.md",
+    "gRPC/HD 钱包.md",
+    "gRPC/ProtoBuffe.md",
     "Bitcoin/1、区块链基础.md",
+    "git/git 用法.md",
+    "README.md",
+    "Untitled.md",
+    "gRPC",
+    "Java/JDK JRE.md",
+    "Java",
+    "Untitled 1.md",
     "go",
     "Wallet/4、CEX 钱包业务流程细节.md",
     "Wallet/3、钱包的密钥管理方式.md",
@@ -209,14 +209,10 @@
     "Pasted image 20250227172313.png",
     "Wallet/2、钱包相关密码学原理.md",
     "Pasted image 20250227005431.png",
-    "Pasted image 20250227004444.png",
     "Wallet",
     "Bitcoin/协议.md",
-    "Untitled.md",
-    "README.md",
     "Solidity/Grammer",
     "Solidity/SimpleStorage.sol",
-    "git/git 用法.md",
     "git",
     "Solidity",
     "Bitcoin"
